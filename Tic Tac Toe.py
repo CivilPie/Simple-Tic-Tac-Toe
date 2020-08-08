@@ -1,13 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
+
 
 
 import random
-
-
-# In[14]:
 
 
 def welcoming():
@@ -144,7 +141,7 @@ def main():
             print("\nThe Game is a Tie")
 
 
-# In[16]:
+
 
 
 welcoming()
@@ -162,13 +159,13 @@ while 1:
     
 
 
-# In[17]:
 
 
 
 
 
-# In[ ]:
+
+
 
 
 
